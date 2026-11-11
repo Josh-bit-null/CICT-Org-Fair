@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+build/
+cms.json
+android/key.properties
+*.jks
+*.keystore
+"firebase-debug.log*" 
